@@ -8,6 +8,8 @@ namespace Review
         {
             Console.WriteLine("Hello World! ahmed");
             Console.WriteLine("Hello World! ahmed");
+            Console.WriteLine("Hello World! ahmed");
+            Console.WriteLine("Hello World! ahmed");
         }
     }
     }
